@@ -1,0 +1,43 @@
+{
+  "name": "eslint-config-mercari",
+  "version": "0.0.1",
+  "description": "A setting file for eslint.",
+  "main": "index.js",
+  "scripts": {
+    "test": "ava"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kouzoh/eslint-config-mercari.git"
+  },
+  "keywords": [
+    "eslint",
+    "react",
+    "flow"
+  ],
+  "author": "abouthiroppy <git@about-hiroppy.com> (http://about-hiroppy.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kouzoh/eslint-config-mercari/issues"
+  },
+  "homepage": "https://github.com/kouzoh/eslint-config-mercari#readme",
+  "devDependencies": {
+    "ava": "^0.19.1",
+    "conventional-changelog": "^1.1.3",
+    "eslint": "^3.19.0",
+    "nyc": "^11.0.2"
+  },
+  "dependencies": {
+    "babel-eslint": "^7.2.3",
+    "eslint-plugin-flowtype": "^2.34.0",
+    "eslint-plugin-react": "^7.0.1"
+  },
+  "ava": {
+    "files": [
+      "test/**/*.js"
+    ],
+    "concurrency": 5,
+    "failFast": true,
+    "tap": true
+  }
+}
