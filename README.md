@@ -1,5 +1,7 @@
 # eslint-config-mercari
 
+[![Build Status](https://travis-ci.com/kouzoh/eslint-config-mercari.svg?token=py8qypqMTpvvPPkozsbE&branch=master)](https://travis-ci.com/kouzoh/eslint-config-mercari)
+
 ## Install
 ```
 $ npm install --save-dev eslint-config-mercari
