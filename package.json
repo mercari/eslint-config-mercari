@@ -4,7 +4,9 @@
   "description": "A setting file for eslint.",
   "main": "index.js",
   "scripts": {
-    "test": "ava"
+    "changelog": "conventional-changelog -p angular -i CHANGELOG.md -s -r 0",
+    "test": "nyc ava",
+    "lint": "node project-lint.js"
   },
   "repository": {
     "type": "git",
