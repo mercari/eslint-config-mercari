@@ -8,8 +8,14 @@ We will create our rules but we don't have out times now.
 So, we use Airbnb rules now.
 
 ## Install
+Please write to `package.json`.
+
 ```
-$ npm install --save-dev eslint-config-mercari
+{
+  "devDependencies": {
+    "eslint-config-mercari": "github:kouzoh/eslint-config-mercari"
+  }
+}
 ```
 
 ## Usage
