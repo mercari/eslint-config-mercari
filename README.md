@@ -2,6 +2,11 @@
 
 [![Build Status](https://travis-ci.com/kouzoh/eslint-config-mercari.svg?token=py8qypqMTpvvPPkozsbE&branch=master)](https://travis-ci.com/kouzoh/eslint-config-mercari)
 
+
+## Goal
+We will create our rules but we don't have out times now.  
+So, we use Airbnb rules now.
+
 ## Install
 ```
 $ npm install --save-dev eslint-config-mercari
