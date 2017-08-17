@@ -27,16 +27,16 @@
     "ava": "^0.19.1",
     "conventional-changelog": "^1.1.4",
     "eslint": "^3.19.0",
-    "nyc": "^11.0.2"
+    "nyc": "^11.1.0"
   },
   "dependencies": {
     "babel-eslint": "^7.2.3",
-    "eslint-config-airbnb": "^15.0.2",
-    "eslint-config-airbnb-base": "^11.2.0",
-    "eslint-plugin-flowtype": "^2.34.0",
+    "eslint-config-airbnb": "^15.1.0",
+    "eslint-config-airbnb-base": "^11.3.1",
+    "eslint-plugin-flowtype": "^2.35.0",
     "eslint-plugin-import": "^2.7.0",
     "eslint-plugin-jsx-a11y": "^6.0.2",
-    "eslint-plugin-react": "^7.1.0"
+    "eslint-plugin-react": "^7.2.1"
   },
   "ava": {
     "files": [
