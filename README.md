@@ -20,3 +20,9 @@ Set your eslint config to:
   "extends": "eslint-config-mercari"
 }
 ```
+
+## License
+
+Copyright 2018 Mercari, Inc.
+
+Licensed under the MIT License.
