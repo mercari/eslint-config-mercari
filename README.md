@@ -1,6 +1,4 @@
-# eslint-config-mercari
-
-[![Build Status](https://travis-ci.com/kouzoh/eslint-config-mercari.svg?token=py8qypqMTpvvPPkozsbE&branch=master)](https://travis-ci.com/kouzoh/eslint-config-mercari)
+# eslint-config-mercari ![GitHub Actions Status](https://github.com/mercari/eslint-config-mercari/workflows/test/badge.svg?branch=main)
 
 ## Install
 
